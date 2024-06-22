@@ -1,0 +1,8 @@
+@media(max-width: 600px) {
+    .list{
+        flex-direction: column;
+    }
+    body {
+        padding: 0;
+    }
+}
